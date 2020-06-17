@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1592316653,
+	"version": 1592360377,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,7 +14,6 @@
 		"images/ohi-sheet5.png",
 		"images/ohi-sheet6.png",
 		"images/ohi-sheet7.png",
-		"images/ohi-sheet8.png",
 		"images/well-sheet0.png",
 		"images/decrease-sheet0.png",
 		"images/tiledbackground.png",
