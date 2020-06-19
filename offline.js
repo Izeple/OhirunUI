@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1592511522,
+	"version": 1592545637,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,8 @@
 		"images/yumbread-sheet0.png",
 		"images/foodmix-sheet0.png",
 		"images/foodmix-sheet1.png",
+		"images/clap-sheet0.png",
+		"images/partyclap-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
