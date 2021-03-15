@@ -22679,13 +22679,13 @@ cr.behaviors.solid = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Text,
-	cr.plugins_.Sprite,
-	cr.plugins_.Spritefont2,
-	cr.plugins_.Touch,
 	cr.plugins_.C2WebSocket,
-	cr.plugins_.SpriteFontPlus,
 	cr.plugins_.TextBox,
+	cr.plugins_.Touch,
+	cr.plugins_.Spritefont2,
+	cr.plugins_.SpriteFontPlus,
+	cr.plugins_.Sprite,
+	cr.plugins_.Text,
 	cr.behaviors.Pin,
 	cr.behaviors.Fade,
 	cr.behaviors.solid,
