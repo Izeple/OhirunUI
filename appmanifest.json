@@ -1,6 +1,6 @@
 ﻿{
-	"name": "OhirunUI_christmas",
-	"short_name": "OhirunUI_christmas",
+	"name": "OhirunUI",
+	"short_name": "OhirunUI",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
