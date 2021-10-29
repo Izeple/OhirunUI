@@ -22679,13 +22679,13 @@ cr.behaviors.solid = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.C2WebSocket,
 	cr.plugins_.SpriteFontPlus,
-	cr.plugins_.Spritefont2,
-	cr.plugins_.Text,
-	cr.plugins_.TextBox,
-	cr.plugins_.Touch,
 	cr.plugins_.Sprite,
+	cr.plugins_.TextBox,
+	cr.plugins_.Spritefont2,
+	cr.plugins_.Touch,
+	cr.plugins_.Text,
+	cr.plugins_.C2WebSocket,
 	cr.behaviors.Pin,
 	cr.behaviors.Fade,
 	cr.behaviors.solid,
@@ -22766,7 +22766,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Fade.prototype.acts.SetFadeOutTime,
 	cr.plugins_.Text.prototype.acts.Destroy,
 	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed,
-	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject,
 	cr.plugins_.SpriteFontPlus.prototype.acts.SetVisible,
 	cr.system_object.prototype.acts.SetGroupActive,
@@ -22780,5 +22779,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.acts.SetMaxFallSpeed,
 	cr.behaviors.solid.prototype.acts.SetEnabled,
 	cr.plugins_.Sprite.prototype.cnds.IsOverlappingOffset,
+	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Sprite.prototype.cnds.OnCreated
 ];};
