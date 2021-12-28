@@ -1,5 +1,9 @@
 ﻿{
+<<<<<<< Updated upstream
 	"version": 1618275524,
+=======
+	"version": 1640711173,
+>>>>>>> Stashed changes
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
