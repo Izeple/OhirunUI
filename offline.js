@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1640711954,
+	"version": 1640755385,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -105,7 +105,6 @@
 		"images/decrease-sheet0.png",
 		"images/cup-sheet0.png",
 		"images/cup-sheet1.png",
-		"images/cup-sheet2.png",
 		"images/momochan-sheet0.png",
 		"images/momochan-sheet1.png",
 		"images/orangeheart-sheet0.png",
